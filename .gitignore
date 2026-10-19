@@ -1,0 +1,22 @@
+# Private research data
+dataset_addresses/
+data/
+private_data/
+
+# Training outputs
+runs/
+checkpoints/
+outputs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local configuration
+.env
