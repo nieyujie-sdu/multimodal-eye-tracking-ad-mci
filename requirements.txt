@@ -1,0 +1,21 @@
+Requirements
+
+Python 3.10 or a compatible Python version
+
+PyTorch and a compatible torchvision version
+
+NumPy
+
+pandas
+
+Pillow
+
+scikit-learn
+
+openpyxl
+
+Install the required packages in your Python environment. For example:
+
+pip install numpy pandas torch torchvision Pillow scikit-learn openpyxl
+
+For GPU training, install a PyTorch version compatible with your CUDA environment. The exact package versions should be selected and tested for your hardware and software configuration.
